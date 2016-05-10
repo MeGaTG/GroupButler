@@ -51,8 +51,8 @@ return {
             reload = '*Bot reloaded!*ðŸ˜ƒ',
             stop = '*Stopping bot!*ðŸ˜'
         },
-        Bot = 'OffLiNeHeLPeR Commands: \n\nMember Attack !\n\n》 /kick (reply)\nاخراج فرد از گروه\n》 /ban (id) & /unban (id)\n(id|userName)\nشخص مورد نظر را بن کنید تا مانع ورود مجدد فرد به گروه شوید\n》 /flood kick/ban',
-        credits = 'This Bot Created With [OffLiNeTeam](https://telegram.me/offlineteam)\n\nBot Basde On *GroupButler bot*',
+        Bot = '*AmIr*'
+        bot = 'This Bot Created With [OffLiNeTeam](https://telegram.me/offlineteam)\n\nBot Basde On *GroupButler bot*',
         extra = {
 			usage = 'Write next to /extra the title of the command and the text associated.\nFor example:\n/extra #motm stay positive. The bot will reply _\'Stay positive\'_ each time someone writes #motm',
             new_command = '*New command setted!*\n&&&1\n&&&2',
